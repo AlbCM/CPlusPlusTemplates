@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1433319636 source:d:\documentos\ingenieria de sistemas y manuales de programacion\9. programacion i\ultimo trabajo\tercero\main.cpp
+	<cstdlib>
+	<iostream>
+	"taylor.h"
+
+1433317819 source:d:\documentos\ingenieria de sistemas y manuales de programacion\9. programacion i\ultimo trabajo\tercero\src\taylor.cpp
+	"taylor.h"
+
+1433319716 d:\documentos\ingenieria de sistemas y manuales de programacion\9. programacion i\ultimo trabajo\tercero\include\taylor.h
+	<cmath>
+	<iostream>
+
+1433319636 source:e:\documentos\ingenieria de sistemas\programacion i\ultimo trabajo\tercero\main.cpp
+	<cstdlib>
+	<iostream>
+	"taylor.h"
+
+1433319716 e:\documentos\ingenieria de sistemas\programacion i\ultimo trabajo\tercero\include\taylor.h
+	<cmath>
+	<iostream>
+
+1433317819 source:e:\documentos\ingenieria de sistemas\programacion i\ultimo trabajo\tercero\src\taylor.cpp
+	"taylor.h"
+
