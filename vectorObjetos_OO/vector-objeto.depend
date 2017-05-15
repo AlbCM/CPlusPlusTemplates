@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1399763549 source:c:\users\chacal\desktop\vector-objeto\main.cpp
+	<iostream>
+	<stdlib.h>
+	"estudiante.h"
+	"declararvectorobjetos.h"
+
+1431555465 ectorobjetos.h"
+
+1399758921 source:c:\users\chacal\desktop\vector-objeto\src\estudiante.cpp
+	"estudiante.h"
+
+1399758922 e.h"
+
+1399759181 c:\users\chacal\desktop\vector-objeto\include\estudiante.h
+	<iostream>
+
+1431554134 
+
+1399760248 source:c:\users\chacal\desktop\vector-objeto\src\declararvectorobjetos.cpp
+	"declararvectorobjetos.h"
+
+1399761235 c:\users\chacal\desktop\vector-objeto\include\declararvectorobjetos.h
+	"estudiante.h"
+
+1401742841 source:m:\actividad\vector-objeto\main.cpp
+	<iostream>
+	<stdlib.h>
+	"estudiante.h"
+	"declararvectorobjetos.h"
+
+1401116546 m:\actividad\vector-objeto\include\estudiante.h
+	<iostream>
+
+1399761235 m:\actividad\vector-objeto\include\declararvectorobjetos.h
+	"estudiante.h"
+
+1399760248 source:m:\actividad\vector-objeto\src\declararvectorobjetos.cpp
+	"declararvectorobjetos.h"
+
+1399758921 source:m:\actividad\vector-objeto\src\estudiante.cpp
+	"estudiante.h"
+
+1399843834 source:e:\actividad\vector-objeto\main.cpp
+	<iostream>
+	<stdlib.h>
+	"estudiante.h"
+	"declararvectorobjetos.h"
+
+1400706068 e:\actividad\vector-objeto\include\estudiante.h
+	<iostream>
+
+1399761235 e:\actividad\vector-objeto\include\declararvectorobjetos.h
+	"estudiante.h"
+
+1399760248 source:e:\actividad\vector-objeto\src\declararvectorobjetos.cpp
+	"declararvectorobjetos.h"
+
+1399758921 source:e:\actividad\vector-objeto\src\estudiante.cpp
+	"estudiante.h"
+
+1402501058 source:k:\actividad\vector-objeto\main.cpp
+	<iostream>
+	<stdlib.h>
+	"estudiante.h"
+	"declararvectorobjetos.h"
+
+1401116546 k:\actividad\vector-objeto\include\estudiante.h
+	<iostream>
+
+1399761235 k:\actividad\vector-objeto\include\declararvectorobjetos.h
+	"estudiante.h"
+
+1399760248 source:k:\actividad\vector-objeto\src\declararvectorobjetos.cpp
+	"declararvectorobjetos.h"
+
+1399758921 source:k:\actividad\vector-objeto\src\estudiante.cpp
+	"estudiante.h"
+
+1399760248 source:c:\users\usuario\documents\c++\vector-objeto\src\declararvectorobjetos.cpp
+	"declararvectorobjetos.h"
+
+1431446322 c:\users\usuario\documents\c++\vector-objeto\include\declararvectorobjetos.h
+	"estudiante.h"
+
+1401116546 c:\users\usuario\documents\c++\vector-objeto\include\estudiante.h
+	<iostream>
+
+1399758921 source:c:\users\usuario\documents\c++\vector-objeto\src\estudiante.cpp
+	"estudiante.h"
+
+1431459976 source:c:\users\usuario\documents\c++\vector-objeto\main.cpp
+	<iostream>
+	<stdlib.h>
+	"estudiante.h"
+	"declararvectorobjetos.h"
+
+1399760250 source:c:\users\invitado\documents\vector-objeto\src\declararvectorobjetos.cpp
+	"declararvectorobjetos.h"
+
+1431555675 c:\users\invitado\documents\vector-objeto\include\declararvectorobjetos.h
+	"estudiante.h"
+
+1431554134 c:\users\invitado\documents\vector-objeto\include\estudiante.h
+	<iostream>
+
+1399758922 source:c:\users\invitado\documents\vector-objeto\src\estudiante.cpp
+	"estudiante.h"
+
+1431555465 source:c:\users\invitado\documents\vector-objeto\main.cpp
+	<iostream>
+	<stdlib.h>
+	"estudiante.h"
+	"declararvectorobjetos.h"
+
+1431555732 source:/home/albercm/Escritorio/Vector de objeto sebastian (copia)/main.cpp
+	<iostream>
+	<stdlib.h>
+	"estudiante.h"
+	"declararvectorobjetos.h"
+
+1431554136 /home/albercm/Escritorio/Vector de objeto sebastian (copia)/include/estudiante.h
+	<iostream>
+
+1431555676 /home/albercm/Escritorio/Vector de objeto sebastian (copia)/include/declararvectorobjetos.h
+	"estudiante.h"
+
+1399760250 source:/home/albercm/Escritorio/Vector de objeto sebastian (copia)/src/declararvectorobjetos.cpp
+	"declararvectorobjetos.h"
+
+1399758922 source:/home/albercm/Escritorio/Vector de objeto sebastian (copia)/src/estudiante.cpp
+	"estudiante.h"
+
+1431555732 source:e:\documentos\ingenieria de sistemas\programacion i\vector de objeto sebastian (copia)\main.cpp
+	<iostream>
+	<stdlib.h>
+	"estudiante.h"
+	"declararvectorobjetos.h"
+
+1431554136 e:\documentos\ingenieria de sistemas\programacion i\vector de objeto sebastian (copia)\include\estudiante.h
+	<iostream>
+
+1431555676 e:\documentos\ingenieria de sistemas\programacion i\vector de objeto sebastian (copia)\include\declararvectorobjetos.h
+	"estudiante.h"
+
+1399760250 source:e:\documentos\ingenieria de sistemas\programacion i\vector de objeto sebastian (copia)\src\declararvectorobjetos.cpp
+	"declararvectorobjetos.h"
+
+1399758922 source:e:\documentos\ingenieria de sistemas\programacion i\vector de objeto sebastian (copia)\src\estudiante.cpp
+	"estudiante.h"
+
