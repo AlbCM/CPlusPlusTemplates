@@ -1,4 +1,4 @@
-## Template Lista simplemente enlazada orientada a objetos:
+# Template Lista simplemente enlazada orientada a objetos:
 
 ## Ejercicio 
 
