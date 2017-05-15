@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1415201571 source:c:\users\usuario\documents\c++\matriz_o_o\main.cpp
+	<iostream>
+	<matriz.h>
+
+1415202100 c:\users\usuario\documents\c++\matriz_o_o\include\matriz.h
+	<iostream>
+	<conio.h>
+
+1415202226 source:c:\users\usuario\documents\c++\matriz_o_o\src\matriz.cpp
+	"matriz.h"
+
+1433355734 source:d:\documentos\ingenieria de sistemas y manuales de programacion\9. programacion i\memoria programacion\matriz_o_o\main.cpp
+	<iostream>
+	<matriz.h>
+	<windows.h>
+
+1433169981 d:\documentos\ingenieria de sistemas y manuales de programacion\9. programacion i\memoria programacion\matriz_o_o\include\matriz.h
+	<iostream>
+	<conio.h>
+
+1433172058 source:d:\documentos\ingenieria de sistemas y manuales de programacion\9. programacion i\memoria programacion\matriz_o_o\src\matriz.cpp
+	"matriz.h"
+
+1433355734 source:e:\documentos\ingenieria de sistemas\programacion i\memoria programacion\matriz_o_o\main.cpp
+	<iostream>
+	<matriz.h>
+	<windows.h>
+
+1438495506 e:\documentos\ingenieria de sistemas\programacion i\memoria programacion\matriz_o_o\include\matriz.h
+	<iostream>
+	<conio.h>
+
+1433172058 source:e:\documentos\ingenieria de sistemas\programacion i\memoria programacion\matriz_o_o\src\matriz.cpp
+	"matriz.h"
+
