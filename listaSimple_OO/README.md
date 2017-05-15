@@ -1,8 +1,8 @@
-Template Lista simplemente enlazada orientada a objetos:
+## Template Lista simplemente enlazada orientada a objetos:
 
-* Ejercicio 
+## Ejercicio 
 
-* Metodos:
+## Metodos:
 - Agregar nodo
 - Buscar nodo
 - Contar nodos
