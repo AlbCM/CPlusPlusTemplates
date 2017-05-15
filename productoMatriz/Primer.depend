@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1433228743 source:/home/albercm/Escritorio/testnew/Trabajo tercer corte/Primer/main.cpp
+	<iostream>
+	"producto.h"
+
+1433229332 /home/albercm/Escritorio/testnew/Trabajo tercer corte/Primer/producto.h
+	<iostream>
+
+1433228742 source:c:\users\albert\desktop\primer\primer\main.cpp
+	<iostream>
+	"producto.h"
+
+1433229460 c:\users\albert\desktop\primer\primer\producto.h
+	<iostream>
+
+1433177400 source:c:\users\albert\desktop\primer\primer\producto.cpp
+	"producto.h"
+
+1433228742 source:e:\documentos\ingenieria de sistemas\programacion i\ultimo trabajo\primer\main.cpp
+	<iostream>
+	"producto.h"
+
+1433229460 e:\documentos\ingenieria de sistemas\programacion i\ultimo trabajo\primer\producto.h
+	<iostream>
+
+1433177400 source:e:\documentos\ingenieria de sistemas\programacion i\ultimo trabajo\primer\producto.cpp
+	"producto.h"
+
