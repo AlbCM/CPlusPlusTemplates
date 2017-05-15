@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1430720429 source:/home/albercm/Escritorio/testnew/arreglo_registros/main.cpp
+	<iostream>
+	"registro.h"
+
+1430720542 /home/albercm/Escritorio/testnew/arreglo_registros/registro.h
+	<iostream>
+	<cstdlib>
+
+1430720592 source:e:\documentos\ingenieria de sistemas\programacion i\testnew\arreglo_registros\main.cpp
+	<iostream>
+	"registro.h"
+	<cstdlib>
+
+1430720592 e:\documentos\ingenieria de sistemas\programacion i\testnew\arreglo_registros\registro.h
+	<iostream>
+	<cstdlib>
+
