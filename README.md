@@ -1,16 +1,3 @@
 # Templates
-Repository designed to store templates of data structures, basic methods etc...
-
-# Methods and KeyWords:
-- Producto matrices
-- Llenar ( )
-- Mostrar  ( )
-- Menu ( )
-- Taylor
-- Nodo *
-- Promedio
-- Maxima
-- Eliminar ( ) *
-- Contar 
-- struct
+Repository designed to store templates of projects about data structures, arrays problems on C++ etc...
 
